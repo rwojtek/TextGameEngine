@@ -73,3 +73,7 @@ All attributes are changeable:
 
 ##### _HTML template (has been modified)_
 - [http://wegraphics.net/downloads/avenir-a-free-coming-soon-html-template/]()
+
+##### _QUIZ questions_
+- [http://www.playbuzz.com/]()
+- [http://www.quiznatic.com/]()
