@@ -58,6 +58,14 @@ All attributes are changeable:
 |       \---backgrounds
 |   \---js
 +---rapidxml-1.13
+
++---main.cpp
++---TextGameEngine.cpp		<- Main logic program file
++---TextGameEngine.h
+
++---TheSourceStory.xml		<- Input file (changeable)
+
++---PlayTheGame.html		<- The main template file
 ```
 ## Reused sources & licenses
 ##### _XML parser_
@@ -65,7 +73,3 @@ All attributes are changeable:
 
 ##### _HTML template (has been modified)_
 - [http://wegraphics.net/downloads/avenir-a-free-coming-soon-html-template/]()
-
-##### _Backgrounds_
-- [http://wallpaperhdwide.com/space-desktop-background.html]()
-- [http://www.tapeciarnia.pl/57902_ziemia_wybuch_kapsula_rakieta]()
