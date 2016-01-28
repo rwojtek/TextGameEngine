@@ -2,11 +2,11 @@
 
 This is a simple text game engine creating HTML file from XML file as a source story. 
 
-## Preview
+## Example
 
 The link below shows a sample text game created by the engine. 
 
-Try out the app: (world-end.herokuapp.com/) (Heroku app may have gone to sleep, reload the page if you see a black background)
+Try out the app: [http://world-end.herokuapp.com/] (Heroku app may have gone to sleep, reload the page if you see a black background)
 
 ## TheSourceStory.xml (your text game story)
 
@@ -50,6 +50,22 @@ All atributes are changeable:
 6. Run the engine
 7. Run PlayTheGame.html file to enjoy your game
 
-## License
+## Directory Structure
+```
++---html_template
+|   +---css
+|   +---images
+|       \---backgrounds
+|   \---js
++---rapidxml-1.13
+```
+## Reused sources & licenses
+##### _XML parser_
+- RapidXml Version 1.13 - The MIT License
 
+##### _HTML template (has been modified)_
+- [http://wegraphics.net/downloads/avenir-a-free-coming-soon-html-template/]()
 
+##### _Backgrounds_
+- [http://wallpaperhdwide.com/space-desktop-background.html]()
+- [http://www.tapeciarnia.pl/57902_ziemia_wybuch_kapsula_rakieta]()
