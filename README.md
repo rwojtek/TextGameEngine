@@ -6,7 +6,7 @@ This is a simple text game engine creating HTML file from XML file as a source s
 
 The link below shows a sample text game created by the engine. 
 
-Try out the app: (https://world-end.herokuapp.com/) (Heroku app may have gone to sleep, reload the page if you see a black background)
+Try out the app: (world-end.herokuapp.com/) (Heroku app may have gone to sleep, reload the page if you see a black background)
 
 ## TheSourceStory.xml (your text game story)
 
@@ -19,12 +19,12 @@ XML file has to be in particular syntax:
 <?xml version="1.0" encoding="UTF-8"?>
 <game>
 	<step>
-		<stepID>**Your step name**</stepID>
-		<stepHeading size="1" bold="no" italic="no">**Your step heading name**</stepHeading>
-		<stepText bold="yes" italic="yes">**Your step text**</stepText>
+		<stepID>Your step name</stepID>
+		<stepHeading size="1" bold="no" italic="no">Your step heading name</stepHeading>
+		<stepText bold="yes" italic="yes">Your step text</stepText>
 		<link>
-			<linkStepID>**Your stepID name (where the story goes after choosing undermentioned choice)**</linkStepID>
-			<linkText bold="no" italic="yes">**Text of choice**</linkText>
+			<linkStepID>Your stepID name (where the story goes after choosing undermentioned choice)</linkStepID>
+			<linkText bold="no" italic="yes">Text of choice</linkText>
 		</link>
 	</step>
 	
@@ -49,3 +49,7 @@ All atributes are changeable:
 5. Replace it with my TheSourceStory.xml file
 6. Run the engine
 7. Run PlayTheGame.html file to enjoy your game
+
+## License
+
+
