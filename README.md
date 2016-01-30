@@ -72,8 +72,8 @@ All attributes are changeable:
 - RapidXml Version 1.13 - The MIT License
 
 ##### _HTML template (has been modified)_
-- [http://wegraphics.net/downloads/avenir-a-free-coming-soon-html-template/]()
+- [http://wegraphics.net/downloads/avenir-a-free-coming-soon-html-template/](http://wegraphics.net/downloads/avenir-a-free-coming-soon-html-template/)
 
 ##### _QUIZ questions_
-- [http://www.playbuzz.com/]()
-- [http://www.quiznatic.com/]()
+- [http://www.playbuzz.com/](http://www.playbuzz.com/)
+- [http://www.quiznatic.com/](http://www.quiznatic.com/)
